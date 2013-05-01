@@ -1,0 +1,1 @@
+cookbook 'jrules', :path => '/Users/tylersanders/Documents/dev/active/exosphere-chef-repo/cookbooks/jrules'
