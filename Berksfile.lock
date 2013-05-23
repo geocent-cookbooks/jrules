@@ -1,3 +1,0 @@
-cookbook 'jrules', :path => '/Volumes/Users/nick/Projects/jrules'
-cookbook 'windows', :locked_version => '1.8.6'
-cookbook 'chef_handler', :locked_version => '1.1.4'
