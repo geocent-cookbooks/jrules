@@ -1,2 +1,3 @@
-default['jrules']['installer_url'] = "http://10.1.1.11/webdav1/ILOG2.exe"
-default['jrules']['installer_dir'] = "c:\\temp"
+default['jrules']['installer_url'] = nil
+default['jrules']['rulesstudio_url'] = nil
+default['jrules']['install_dir'] = "c:\\ILOG\\JRules711"
