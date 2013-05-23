@@ -78,8 +78,8 @@ Vagrant.configure("2") do |config|
   config.vm.provision :chef_solo do |chef|
     chef.json = {
       :jrules => {
-        :installer_url => "http://10.153.93.197/webdav/installs/ILOG711.exe",
-        :rulesstudio_url => "http://10.153.93.197/webdav/installs/rulesstudio711.exe"
+        :installer_url => "c:/vagrant/ILOG711.exe",
+        :rulesstudio_url => "c:/vagrant/rulesstudio711.exe"
       }
     }
 
